@@ -59,7 +59,7 @@ the project demonstrates solid oop design while handling real-world data operati
 
 - Search by Major
   
-![search by major](assets/SearchByMajor.png)
+![search by major](assets/searchByMajor.png)
 
 - Charts
   
