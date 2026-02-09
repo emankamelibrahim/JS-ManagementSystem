@@ -33,9 +33,21 @@ the project demonstrates solid oop design while handling real-world data operati
 
 
 ## screenshots
+-Add new entity
+![add new](assets/add.png)
+-Dropdown menu for courses
 ![courses dropdown restriction](assets/dropdown.png)
-![insights dashboard](assets/charts.png)
+-Confirm message before deletion
+![Delete Confirmation](assets/deleteConfirmation.png)
+-Pagination
+![pagination](assets/pagination.png)
+-Sort by name
+![pagination](assets/sort.png)
+-Search by Name
+![pagination](assets/searchByName.png)
+-Search by Major
+![pagination](assets/SearchbyMajor.png)
+-Charts
+![insights dashboard](assets/charts1.png)
+![insights dashboard](assets/charts2.png)
 
-## notes
-- ui is intentionally minimal to keep focus on logic and data handling
-- project is suitable as a foundation for expansion or refactoring into a larger system
