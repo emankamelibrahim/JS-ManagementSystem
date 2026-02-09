@@ -33,21 +33,21 @@ the project demonstrates solid oop design while handling real-world data operati
 
 
 ## screenshots
--Add new entity
+- Add new entity
 ![add new](assets/add.png)
--Dropdown menu for courses
+- Dropdown menu for courses
 ![courses dropdown restriction](assets/dropdown.png)
--Confirm message before deletion
+- Confirm message before deletion
 ![Delete Confirmation](assets/deleteConfirmation.png)
--Pagination
+- Pagination
 ![pagination](assets/pagination.png)
--Sort by name
+- Sort by name
 ![pagination](assets/sort.png)
--Search by Name
+- Search by Name
 ![pagination](assets/searchByName.png)
--Search by Major
+- Search by Major
 ![pagination](assets/SearchbyMajor.png)
--Charts
+- Charts
 ![insights dashboard](assets/charts1.png)
 ![insights dashboard](assets/charts2.png)
 
