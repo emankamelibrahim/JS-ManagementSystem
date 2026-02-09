@@ -33,8 +33,6 @@ the project demonstrates solid oop design while handling real-world data operati
 
 
 ## screenshots
-![login page](assets/login.png)
-![students management](assets/students.png)
 ![courses dropdown restriction](assets/dropdown.png)
 ![insights dashboard](assets/charts.png)
 
