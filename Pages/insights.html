@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insights</title>
+    <link rel="icon" type="image/png" href="../resources/icon/website-icon-blue.png">
+    <link rel="stylesheet" href="../style/insights.css">
+</head>
+<body>
+    <nav>
+        <a href="display.html">Manage Data</a>
+        <a href="insights.html" class="active">Insights</a>
+    </nav>
+    <hr>
+    <div class="insights-container">
+        <h1>Analytics Dashboard</h1>
+        <div class="charts-grid">
+            <div class="chart-card">
+                <canvas id="salaryChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <canvas id="genderChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <canvas id="majorChart"></canvas>
+            </div>
+
+            <div class="chart-card">
+                <canvas id="workloadChart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    
+    <!-- Your modules -->
+    <script type="module" src="../src/insights/insightsPage.js"></script>
+</body>
+</html>
